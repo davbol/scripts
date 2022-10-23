@@ -1,0 +1,3 @@
+command to copy agent to gcs bucket (for restoring)
+
+cp dialogflow-agent.blob gs://agent-export
